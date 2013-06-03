@@ -1,0 +1,7 @@
+name: CustomItems
+main: com.mpi.CustomItems
+version: 0.2
+depend: [Spout]
+description: Custom Items
+author: EvilPdor (evilpdor@multiplayer-italia.com)
+
